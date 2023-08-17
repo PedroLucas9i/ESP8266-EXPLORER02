@@ -26,14 +26,14 @@ Robot V2:
 -> Upload the code to ESP82666<br>
 
 ## How it works
-*Press middle button to stop and receive new direction<br>
-*Press front button to drive to front<br>
-*Press back button to drive to rear<br>
-*Press left button to rotate left<br>
-*Press right button to rotate right<br>
+-Press middle button to stop and receive new direction<br>
+-Press front button to drive to front<br>
+-Press back button to drive to rear<br>
+-Press left button to rotate left<br>
+-Press right button to rotate right<br>
 **Note: If you press the same button several times, it will move in the same direction, more faster.**
 
-Dashboard view:
+Dashboard view:<br>
 ![EXPLORER02-DASHBOARD](https://github.com/PedroLucas9i/ESP8266-EXPLORER02/assets/126804855/4f02cd66-c828-43ad-a18c-091c3ecc6c7c)
 
 
