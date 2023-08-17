@@ -19,10 +19,15 @@ Robot V2:
 
 ## Configuration
 -> Print 3D PARTS
+
 -> Build the Robot
+
 -> Install Arduino IDE
+
 -> <a href ="https://www.makerhero.com/blog/programar-nodemcu-com-ide-arduino/">Configure your Arduino IDE to ESP8266</a>
+
 -> Choose the correct COM port
+
 -> Upload the code to ESP82666
 
 ## How it works
