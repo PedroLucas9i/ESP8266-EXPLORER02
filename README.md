@@ -18,24 +18,19 @@ Robot V2:
 ![EXPLORER02-Perfil](./Images/Perfil.jpg)
 
 ## Configuration
--> Print 3D PARTS
-
--> Build the Robot
-
--> Install Arduino IDE
-
--> <a href ="https://www.makerhero.com/blog/programar-nodemcu-com-ide-arduino/">Configure your Arduino IDE to ESP8266</a>
-
--> Choose the correct COM port
-
--> Upload the code to ESP82666
+-> Print 3D PARTS<br>
+-> Build the Robot<br>
+-> Install Arduino IDE<br>
+-> <a href ="https://www.makerhero.com/blog/programar-nodemcu-com-ide-arduino/">Configure your Arduino IDE to ESP8266</a><br>
+-> Choose the correct COM port<br>
+-> Upload the code to ESP82666<br>
 
 ## How it works
-Press middle button to stop and receive new direction
-Press front button to drive to front
-Press back button to drive to rear
-Press left button to rotate left
-Press right button to rotate right
+*Press middle button to stop and receive new direction<br>
+*Press front button to drive to front<br>
+*Press back button to drive to rear<br>
+*Press left button to rotate left<br>
+*Press right button to rotate right<br>
 **Note: If you press the same button several times, it will move in the same direction, more faster.**
 
 Dashboard view:
