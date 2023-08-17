@@ -31,7 +31,7 @@ Robot V2:
 -> Press back button to drive to rear<br>
 -> Press left button to rotate left<br>
 -> Press right button to rotate right<br>
-**Note: If you press the same button several times, it will move in the same direction, more faster.**
+**Note: If you press the same button several times, it will move in the same direction, faster.**
 
 Dashboard view:<br>
 ![EXPLORER02-DASHBOARD](https://github.com/PedroLucas9i/ESP8266-EXPLORER02/assets/126804855/4f02cd66-c828-43ad-a18c-091c3ecc6c7c)
